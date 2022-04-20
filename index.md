@@ -6,6 +6,8 @@ layout: default
 title: Home
 ---
 <html>
+{% seo %}
+
 <style>
 img {
     padding: 20px;

@@ -36,12 +36,16 @@ inclide:
 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 header_pages:
   - index.md
   - projects.md
   - resources.md
   - resume.md
+
+  author: Lance Mathias
+  
 
 # Exclude from processing.
 # The following items will not be processed, by default.
