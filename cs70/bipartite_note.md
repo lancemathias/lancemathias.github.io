@@ -1,5 +1,6 @@
 ---
 permalink: /cs70/bipartite_note
+title: Bipartite Graphs
 layout: default
 ---
  

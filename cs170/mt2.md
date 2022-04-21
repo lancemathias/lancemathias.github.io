@@ -1,5 +1,6 @@
 ---
 permalink: /cs170/mt2
+title: Midterm 2 Cheat Sheet
 layout: default
 ---
  
