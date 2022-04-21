@@ -1,5 +1,5 @@
 ---
-permalink: /cs70/note
+permalink: /cs70/bipartite_note
 layout: default
 ---
  

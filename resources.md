@@ -8,7 +8,8 @@ I'm currently head facilitator for the [Linux SysAdmin Decal](https://decal.ocf.
 Below you can find resources and materials I've made for classes I've taken and taught. 
 
 #### CS70: Discrete Math and Probability Theory
-* [Note on Bipartite Graphs](/cs70/note)
+* [Note on Bipartite Graphs](/cs70/bipartite_note)
+* [Note on Linear Least Squares](/cs70/lls_note)
 
 #### CS170: Efficient Algorithms and Intractible Problems  
 * [Midterm 2 Cheat Sheet](/cs170/mt2)
